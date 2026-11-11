@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "apps": [
+    {
+      "id": "elahmad",
+      "name": "ELAHMAD",
+      "icon": "https://github.com/THSK4U/apktv/releases/download/ELAHMAD/ELAHMAD.jpg",
+      "apk": "https://github.com/THSK4U/apktv/releases/download/ELAHMAD/ELAHMAD.apk"
+    }
+  ]
+}
